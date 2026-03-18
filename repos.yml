@@ -12114,3 +12114,6 @@ repos:
     group: deepin-sysdev-team
     info: Fast and lightweight x86/x86-64 disassembler library
 
+  - repo: kleidiai
+    group: deepin-sysdev-team
+    info: Optimized micro-kernel library for AI workloads for Arm CPUs
