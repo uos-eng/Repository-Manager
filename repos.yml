@@ -12121,3 +12121,8 @@ repos:
   - repo: esnacc #main
     group: deepin-sysdev-team
     info: Enhanced SNACC ASN.1 compiler for data serialization
+
+  - repo: libpisp #main
+    group: deepin-sysdev-team
+    info: Helper library for the PiSP hardware block
+
